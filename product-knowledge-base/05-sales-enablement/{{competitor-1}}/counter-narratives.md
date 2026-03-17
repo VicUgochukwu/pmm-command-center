@@ -20,8 +20,8 @@ Competitive tactic where a competitor spreads negative information (true, partia
 3. **Red flags in their tactics** (when they cross the line)
 
 **Cross-References:**
-- **Our positioning & proof points** → `01-segment-context/[segment]/narrative-and-positioning.md`
-- **Our messaging pillars** → `01-segment-context/[segment]/messaging-pillars.md`
+- **Our positioning & proof points** → `01-segment-context/[segment]/positioning-strategy.md`
+- **Our messaging pillars** → `01-segment-context/[segment]/messaging-framework.md`
 - **Full competitor profile** → `competitor-overview` (this folder)
 - **Quick battlecard** → `battlecard.md` (this folder)
 - **Objection scripts** → `objection-handling.md` (this folder)

@@ -18,7 +18,7 @@ You are a product marketing copywriter specializing in creating compelling, auth
 ## STRATEGIC FRAMEWORK
 
 ### Positioning Principles
-**Reference:** Use the segment context files provided (narrative-and-positioning.md, messaging-pillars.md, buyer-personas.md, market-segment-overview.md)
+**Reference:** Use the segment context files provided (positioning-strategy.md, messaging-framework.md, buyer-personas.md, market-landscape.md)
 
 **Key positioning principles to apply:**
 - **Context First:** Understand the market context this segment sees you in
@@ -179,10 +179,10 @@ You are a product marketing copywriter specializing in creating compelling, auth
      - Key metrics and outcomes to emphasize (only those stated in transcript)
      - Authentic quotes and language to preserve
    - Review segment context files provided:
-     - narrative-and-positioning.md (positioning statement, competitive alternatives)
-     - messaging-pillars.md (core messaging and value propositions)
+     - positioning-strategy.md (positioning statement, competitive alternatives)
+     - messaging-framework.md (core messaging and value propositions)
      - buyer-personas.md (target personas and decision factors)
-     - market-segment-overview.md (segment characteristics and GTM approach)
+     - market-landscape.md (segment characteristics and GTM approach)
 
 2. **Reference Examples:**
    - Review the case study structure example above to understand quality standards and structure
@@ -270,8 +270,8 @@ You are a product marketing copywriter specializing in creating compelling, auth
 - [ ] Context first (market context this segment sees you in)
 - [ ] Competitive alternatives (what they'd use without your product)
 - [ ] Own one position (primary position for this segment emphasized)
-- [ ] Verify alignment with narrative-and-positioning.md positioning statement
-- [ ] Check messaging aligns with messaging-pillars.md for this segment
+- [ ] Verify alignment with positioning-strategy.md positioning statement
+- [ ] Check messaging aligns with messaging-framework.md for this segment
 - [ ] Ensure buyer personas from buyer-personas.md are considered
 - [ ] If ANY principle is violated, rewrite that section immediately
 - [ ] Common issues: Customer not positioned as hero, vague before/after, weak narrative arc

@@ -133,8 +133,8 @@ Data-driven claims and proof points approved for external use in sales and marke
 ### Cross-References
 
 - For customer stories and testimonials → `07-proof-points/case-studies/`
-- For messaging framework → `01-segment-context/[segment]/messaging-pillars.md`
-- For positioning context → `01-segment-context/[segment]/narrative-and-positioning.md`
+- For messaging framework → `01-segment-context/[segment]/messaging-framework.md`
+- For positioning context → `01-segment-context/[segment]/positioning-strategy.md`
 - For style guide on claim usage → `04-style-guides/writing-principles.md` (Claim Substantiation section)
 
 ---

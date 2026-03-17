@@ -26,7 +26,7 @@ Closes the feedback loop between content creation and real-world performance. Ta
 
 **Step 1:** Read `product-knowledge-base/06-agents/template-structures-reference.md` to understand the knowledge base layout — you need to know what messaging pillars, personas, and segments exist so you can map performance data back to them.
 
-**Step 2:** When analyzing results for a specific segment, read that segment's `01-segment-context/[segment]/messaging-pillars.md` and `01-segment-context/[segment]/buyer-persona-overview.md` to map performance data to the correct pillars and personas.
+**Step 2:** When analyzing results for a specific segment, read that segment's `01-segment-context/[segment]/messaging-framework.md` and `01-segment-context/[segment]/buying-committee.md` to map performance data to the correct pillars and personas.
 
 **Step 3:** Check `experiments/` for prior experiment results related to the same campaign, segment, or messaging pillar. Prior data points affect confidence tiers.
 

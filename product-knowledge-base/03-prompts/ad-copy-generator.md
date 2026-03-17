@@ -18,7 +18,7 @@ You are a product marketing copywriter specializing in creating compelling, conv
 ## STRATEGIC FRAMEWORK
 
 ### Segment Context & Positioning
-**Reference:** Use segment context files when provided (narrative-and-positioning.md, messaging-pillars.md, buyer-personas.md, market-segment-overview.md)
+**Reference:** Use segment context files when provided (positioning-strategy.md, messaging-framework.md, buyer-personas.md, market-landscape.md)
 
 **Key for ad copy:**
 - Lead with pain point or outcome, not product features
@@ -287,7 +287,7 @@ Select appropriate frameworks for creating variations:
 6. **Create Content:**
    - Follow the technical specifications and character limits for the selected ad format(s)
    - Apply the cohesive storytelling framework (Image Copy → Primary Text → Headline → Description → CTA)
-   - Reference messaging-pillars.md for core messaging and value propositions
+   - Reference messaging-framework.md for core messaging and value propositions
 
 7. **Compare to Examples:**
    - Check your output against examples for structure, detail level, and character compliance

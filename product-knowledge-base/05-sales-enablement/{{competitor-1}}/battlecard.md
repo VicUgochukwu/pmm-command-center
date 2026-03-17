@@ -22,11 +22,11 @@
 **Example:** "We win when teams need speed over enterprise features - live in 2 hours vs Confluence's 2-week implementation"
 
 **Cross-References:**
-- **Our messaging pillars** → `01-segment-context/[segment]/messaging-pillars.md`
+- **Our messaging pillars** → `01-segment-context/[segment]/messaging-framework.md`
 - **Our buyer personas** → `01-segment-context/[segment]/buyer-personas.md`
 - **Full competitor profile** → `competitor-overview` (this folder)
 - **Objection scripts** → `objection-handling.md` (this folder)
-- **FUD playbook** → `FUD-playbook.md` (this folder)
+- **counter-narratives** → `counter-narratives.md` (this folder)
 
 ---
 
@@ -432,7 +432,7 @@ Use the **Acknowledge → Reframe → Proof → Check** framework
 **Internal:**
 - **Competitor overview:** [Link to detailed competitor overview doc]
 - **Objection handling:** [Link to full objection framework doc]
-- **FUD tactics:** [Link to FUD playbook doc]
+- **FUD tactics:** [Link to counter-narratives doc]
 - **Demo script vs them:** [Link to demo script]
 
 **Customer-facing:**

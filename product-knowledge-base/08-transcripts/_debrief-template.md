@@ -86,17 +86,17 @@ deal_outcome: "[optional — for win/loss calls: why they bought, why they didn'
 
 *Agent: For each section, propose specific additions or changes. Be precise — reference the file path and the exact field or section to update. Do not write to these files until the user confirms.*
 
-### Personas (`01-segment-context/[segment]/buyer-persona-overview.md`)
+### Personas (`01-segment-context/[segment]/buying-committee.md`)
 *New language, updated pain points, role dynamics observed*
 
 -
 
-### Messaging Pillars (`01-segment-context/[segment]/messaging-pillars.md`)
+### Messaging Pillars (`01-segment-context/[segment]/messaging-framework.md`)
 *Language that resonated, language that fell flat, new angles to test*
 
 -
 
-### Narrative & Positioning (`01-segment-context/[segment]/narrative-and-positioning.md`)
+### Narrative & Positioning (`01-segment-context/[segment]/positioning-strategy.md`)
 *Competitive positioning signals, positioning gaps, new differentiation angles*
 
 -

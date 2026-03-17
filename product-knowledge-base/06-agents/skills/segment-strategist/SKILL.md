@@ -28,9 +28,9 @@ Strategic advisory for identifying new segments, evaluating segment opportunitie
 
 **Step 1:** Read `product-knowledge-base/06-agents/template-structures-reference.md` to understand the full knowledge base structure and what segment data exists.
 
-**Step 2:** For any segment under analysis, read ALL files in that segment's folder (`01-segment-context/[segment]/`): `narrative-and-positioning.md`, `messaging-pillars.md`, `buyer-persona-overview.md`, and `market-segment-overview.md`. You need the complete picture.
+**Step 2:** For any segment under analysis, read ALL files in that segment's folder (`01-segment-context/[segment]/`): `positioning-strategy.md`, `messaging-framework.md`, `buying-committee.md`, and `market-landscape.md`. You need the complete picture.
 
-**Step 3:** When comparing segments, read the same file type across all relevant segments (e.g., all `narrative-and-positioning.md` files) to detect overlap and differentiation gaps.
+**Step 3:** When comparing segments, read the same file type across all relevant segments (e.g., all `positioning-strategy.md` files) to detect overlap and differentiation gaps.
 
 **Step 4:** Check `experiments/` for performance data related to the segments under analysis. Strategy without performance data is guesswork.
 

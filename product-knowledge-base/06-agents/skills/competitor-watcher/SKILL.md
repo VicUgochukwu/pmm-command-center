@@ -26,7 +26,7 @@ Monitors competitor changes — pricing updates, new features, positioning shift
 
 **Step 1:** Read `product-knowledge-base/06-agents/template-structures-reference.md` to understand the competitive intelligence file structure and what information lives where.
 
-**Step 2:** When analyzing a specific competitor, read ALL four files in that competitor's folder (`05-sales-enablement/[competitor]/`): `competitor-overview.md`, `battlecard.md`, `objection-handling.md`, and `FUD-playbook.md`. You need the full current picture to detect what has changed.
+**Step 2:** When analyzing a specific competitor, read ALL four files in that competitor's folder (`05-sales-enablement/[competitor]/`): `competitor-overview.md`, `battlecard.md`, `objection-handling.md`, and `counter-narratives.md`. You need the full current picture to detect what has changed.
 
 **Step 3:** Check `research/competitor-changelog.md` (if it exists) for prior change entries about this competitor. Context on the trajectory of changes matters.
 
@@ -211,7 +211,7 @@ product-knowledge-base/
 │   ├── competitor-overview.md      (updated with approval)
 │   ├── battlecard.md               (updated with approval)
 │   ├── objection-handling.md       (updated with approval)
-│   └── FUD-playbook.md             (updated with approval)
+│   └── counter-narratives.md             (updated with approval)
 └── research/
     └── competitor-changelog.md     (appended automatically)
 ```

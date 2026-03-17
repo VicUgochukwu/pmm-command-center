@@ -8,7 +8,7 @@ segment: "[SEGMENT NAME]"
 segment_type: "demographic"  # or "problem_based"
 gmv_range: "[GMV RANGE]"  # if demographic
 problem_definition: "[PROBLEM DESCRIPTION]"  # if problem_based
-# Positioning context — must match narrative-and-positioning.md
+# Positioning context — must match positioning-strategy.md
 primary_position: "[ONE POSITION YOU OWN - e.g., 'fastest to implement']"
 positioning_strategy: "[Al Ries strategy - e.g., 'attribute_ownership']"
 competitive_alternatives:
@@ -47,9 +47,9 @@ This document defines the 3 core messaging pillars for [PRODUCT NAME] targeting 
 **Limit to 3 pillars.** More = diluted message. Each pillar must support your primary position.
 
 **Cross-References:**
-- **Positioning, competitive context & proof points** → `narrative-and-positioning.md`
+- **Positioning, competitive context & proof points** → `positioning-strategy.md`
 - **Buyer committee & role-specific messaging** → `buyer-personas.md`
-- **Market overview & deal mechanics** → `market-segment-overview.md`
+- **Market overview & deal mechanics** → `market-landscape.md`
 - **Landing page content generation** → `03-prompts/solution-lander-generator.md`
 
 ---
@@ -58,11 +58,11 @@ This document defines the 3 core messaging pillars for [PRODUCT NAME] targeting 
 
 **Minimum viable version to start generating content:**
 
-1. **Ensure narrative-and-positioning.md is complete** (positioning strategy, competitive alternatives, proof points)
+1. **Ensure positioning-strategy.md is complete** (positioning strategy, competitive alternatives, proof points)
 
 2. **Fill YAML metadata** (5 mins)
    - Pillar names, benefits, metrics
-   - Positioning context fields should match `narrative-and-positioning.md`
+   - Positioning context fields should match `positioning-strategy.md`
 
 3. **Write 1 paragraph per pillar under "Why Customers Care"** (10 mins)
    - What pain does this solve?
@@ -82,7 +82,7 @@ This document defines the 3 core messaging pillars for [PRODUCT NAME] targeting 
 2. **Customer Voice:** How do actual customers describe their pain and your solution?
 3. **Copy Blocks:** What are the best headlines, CTAs, and body copy for each pillar?
 
-> **Note:** Positioning strategy, competitive alternatives, market context, and proof points are defined in `narrative-and-positioning.md`. Ensure your pillars align with and reinforce the primary position established there.
+> **Note:** Positioning strategy, competitive alternatives, market context, and proof points are defined in `positioning-strategy.md`. Ensure your pillars align with and reinforce the primary position established there.
 
 ### Pillar Selection Criteria:
 - Each pillar must support your ONE primary position
@@ -363,10 +363,10 @@ All three pillars support the single position: "Fastest to implement"
    - Show customer outcomes, not features
 
 4. **Cross-Reference Other Documents**
-   - **Positioning & competitive context** → `narrative-and-positioning.md`
+   - **Positioning & competitive context** → `positioning-strategy.md`
    - **Buyer committee profiles** → `buyer-personas.md`
-   - **Market overview & deal mechanics** → `market-segment-overview.md`
-   - **Proof points & evidence** → `narrative-and-positioning.md`
+   - **Market overview & deal mechanics** → `market-landscape.md`
+   - **Proof points & evidence** → `positioning-strategy.md`
    - **Landing page generation** → `03-prompts/solution-lander-generator.md`
 
 5. **Map to Stakeholders**
@@ -378,14 +378,14 @@ All three pillars support the single position: "Fastest to implement"
 - Start with segment metadata (positioning strategy, primary position)
 - Use Ready-to-Use Copy Blocks as templates
 - Reference "Why Customers Care" for authentic voice
-- Pull proof points from `narrative-and-positioning.md`
+- Pull proof points from `positioning-strategy.md`
 - Map messaging to appropriate stakeholder (see `buyer-personas.md`)
 
 ---
 
 ## Template Completion Checklist
 
-- [ ] **Ensure narrative-and-positioning.md is complete** (positioning, competitive alternatives, proof points)
+- [ ] **Ensure positioning-strategy.md is complete** (positioning, competitive alternatives, proof points)
 - [ ] **Fill AI-Readable Metadata** (pillar names, benefits, metrics)
 - [ ] **Define PRIMARY pillar** (directly supports your one position)
 - [ ] **Write "Why Customers Care"** (customer voice with quotes)

@@ -21,11 +21,11 @@ Every objection response follows this structure:
 - Check = ensures understanding, keeps conversation going
 
 **Cross-References:**
-- **Our positioning & proof points** → `01-segment-context/[segment]/narrative-and-positioning.md`
+- **Our positioning & proof points** → `01-segment-context/[segment]/positioning-strategy.md`
 - **Our buyer personas** → `01-segment-context/[segment]/buyer-personas.md`
 - **Full competitor profile** → `competitor-overview` (this folder)
 - **Quick battlecard** → `battlecard.md` (this folder)
-- **FUD playbook** → `FUD-playbook.md` (this folder)
+- **counter-narratives** → `counter-narratives.md` (this folder)
 
 ---
 
@@ -430,7 +430,7 @@ When to escalate:
 **Internal:**
 - **Competitor overview:** [Link - for deeper competitive intelligence]
 - **Battlecard:** [Link - for quick competitive reference]
-- **FUD playbook:** [Link - for their fear/uncertainty/doubt tactics]
+- **counter-narratives:** [Link - for their fear/uncertainty/doubt tactics]
 - **Customer testimonials:** [Link - case studies of customers who switched from this competitor]
 
 **Training:**

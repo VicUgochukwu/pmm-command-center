@@ -74,9 +74,9 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 **Limit to MAX 3 roles.** If you have more, you're trying to sell to too many people.
 
 **Cross-References:**
-- **Positioning & competitive context** → `narrative-and-positioning.md`
-- **Deal flow & buying stages** → `market-segment-overview.md`
-- **Messaging pillars & copy blocks** → `messaging-pillars.md`
+- **Positioning & competitive context** → `positioning-strategy.md`
+- **Deal flow & buying stages** → `market-landscape.md`
+- **Messaging pillars & copy blocks** → `messaging-framework.md`
 - **Objection handling scripts** → `05-sales-enablement/` (relevant competitor folder)
 
 ---
@@ -104,9 +104,9 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 
 ## Segmentation Approach
 
-> **Detailed guidance:** See `market-segment-overview.md` for the full demographic vs. problem-based segmentation framework, including selection criteria and examples.
+> **Detailed guidance:** See `market-landscape.md` for the full demographic vs. problem-based segmentation framework, including selection criteria and examples.
 
-**Your choice** (as defined in market-segment-overview.md):
+**Your choice** (as defined in market-landscape.md):
 - [ ] Demographic (use GMV range in YAML)
 - [ ] Problem-based (use problem_intensity in YAML)
 
@@ -387,7 +387,7 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 
 ## [SEGMENT] Buying Patterns
 
-> **Detailed deal flow:** See `market-segment-overview.md` for the complete stage-by-stage deal progression (Discovery → Team Validation → Economic Buyer → Technical Review → Close), including timelines, red flags, deal killers, buying triggers, and GTM motion.
+> **Detailed deal flow:** See `market-landscape.md` for the complete stage-by-stage deal progression (Discovery → Team Validation → Economic Buyer → Technical Review → Close), including timelines, red flags, deal killers, buying triggers, and GTM motion.
 
 ### Key Concerns by Role
 
@@ -403,7 +403,7 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 - Primary concern: Security, integrations, and scalability
 - Key question: "Does this meet our security requirements and integrate with our stack?"
 
-> **For full objection handling scripts** (Acknowledge → Reframe → Proof → Check), see the relevant competitor folder in `05-sales-enablement/`. For proof points by role, see the evidence section in `narrative-and-positioning.md`.
+> **For full objection handling scripts** (Acknowledge → Reframe → Proof → Check), see the relevant competitor folder in `05-sales-enablement/`. For proof points by role, see the evidence section in `positioning-strategy.md`.
 
 ---
 
@@ -427,17 +427,17 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
    - Reference decision timeline for timing content
 
 4. **Cross-Reference Other Documents**
-   - **Deal flow & buying stages** → `market-segment-overview.md`
-   - **Positioning & proof points** → `narrative-and-positioning.md`
-   - **Messaging pillars & copy blocks** → `messaging-pillars.md`
+   - **Deal flow & buying stages** → `market-landscape.md`
+   - **Positioning & proof points** → `positioning-strategy.md`
+   - **Messaging pillars & copy blocks** → `messaging-framework.md`
    - **Objection handling scripts** → `05-sales-enablement/` (relevant competitor folder)
 
 **When generating sales content, emails, or enablement:**
 - Start with Economic Buyer (they sign the deal)
 - Support with Champion content (they drive adoption)
 - Add Technical Buyer content only when needed (deal-specific)
-- Reference deal flow and buying triggers from `market-segment-overview.md`
-- Pull proof points from `narrative-and-positioning.md`
+- Reference deal flow and buying triggers from `market-landscape.md`
+- Pull proof points from `positioning-strategy.md`
 - Use objection handling scripts from `05-sales-enablement/`
 
 ---
@@ -448,8 +448,8 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 - [ ] **Identify PRIMARY buyer** (who signs contract - focus 80% of effort here)
 - [ ] **Map authority levels** (budget holder, veto power, decision timeline)
 - [ ] **Complete role-specific details** (pain points, competitive alternatives, decision factors per role)
-- [ ] **Ensure market-segment-overview.md has deal flow** (stage-by-stage progression)
-- [ ] **Ensure narrative-and-positioning.md has proof points** (evidence catalog)
+- [ ] **Ensure market-landscape.md has deal flow** (stage-by-stage progression)
+- [ ] **Ensure positioning-strategy.md has proof points** (evidence catalog)
 - [ ] **Validate with sales team** (do deals actually work this way?)
 - [ ] **Update last modified date**
 

@@ -21,14 +21,14 @@ You are a product marketing copywriter specializing in creating high-converting 
 
 **Before generating any landing page content, reference these files from the target segment folder:**
 
-1. **`narrative-and-positioning.md`** (Primary reference)
+1. **`positioning-strategy.md`** (Primary reference)
    - Positioning strategy (Classic, Problem-focused, or Combined)
    - Competitive alternatives (status quo, different category, direct competitor)
    - Unique differentiators vs. ALL alternatives
    - Narrative structure (Problem → Solution → Outcome)
    - Proof points and evidence catalog
 
-2. **`messaging-pillars.md`** (Copy source)
+2. **`messaging-framework.md`** (Copy source)
    - 3 messaging pillars with ready-to-use copy blocks
    - Customer voice quotes ("Why Customers Care")
    - Headlines, subheadlines, CTAs, body copy examples
@@ -39,7 +39,7 @@ You are a product marketing copywriter specializing in creating high-converting 
    - Role-specific pain points and decision factors
    - Role-specific competitive alternatives
 
-4. **`market-segment-overview.md`** (Market context)
+4. **`market-landscape.md`** (Market context)
    - Segmentation approach (demographic vs. problem-based)
    - Deal flow and buying patterns
    - GTM motion and channel strategy
@@ -117,8 +117,8 @@ Each should be specific, quantified where possible, and emotionally resonant.
 3. [Pain 3 with specific example]: "Knowledge lives in Slack threads that disappear"
 
 **Source:** Pull pain points from:
-- `narrative-and-positioning.md` → "The Challenge" section
-- `messaging-pillars.md` → "Why Customers Care" sections
+- `positioning-strategy.md` → "The Challenge" section
+- `messaging-framework.md` → "Why Customers Care" sections
 - `buyer-personas.md` → Role-specific pain points
 
 ---
@@ -140,7 +140,7 @@ Each should be specific, quantified where possible, and emotionally resonant.
 3. **[Pillar 3 Headline]**: [Specific capability]
    - Example: "Collaborate in real-time without email chains"
 
-**Source:** Pull directly from `messaging-pillars.md` → Pillar summaries and key benefits.
+**Source:** Pull directly from `messaging-framework.md` → Pillar summaries and key benefits.
 
 ---
 
@@ -187,8 +187,8 @@ Each should be specific, quantified where possible, and emotionally resonant.
 **Source:** Pull from:
 - `07-proof-points/case-studies/` → Approved customer success stories, quotes, and metrics
 - `07-proof-points/data-claims/data-claims.md` → Substantiated data claims with active status
-- `narrative-and-positioning.md` → Strategic proof points context
-- `messaging-pillars.md` → "Why Customers Care" customer quotes
+- `positioning-strategy.md` → Strategic proof points context
+- `messaging-framework.md` → "Why Customers Care" customer quotes
 
 ---
 
@@ -209,7 +209,7 @@ Each should be specific, quantified where possible, and emotionally resonant.
 | [Capability 3] | [How they do it — pain] | [How you do it — benefit] |
 
 **Source:** Pull from:
-- `narrative-and-positioning.md` → Unique differentiators table, competitive alternatives
+- `positioning-strategy.md` → Unique differentiators table, competitive alternatives
 - `05-sales-enablement/[competitor]/` → Battlecard head-to-head comparisons
 
 ---
@@ -269,8 +269,8 @@ Each should be specific, quantified where possible, and emotionally resonant.
 **Defensible Claims:**
 - Operational benefits: "Eliminates tool switching," "Everything searchable in one place"
 - Customer experience: "Set up in 2 hours," "No IT required"
-- Verified metrics: Only from `07-proof-points/data-claims/data-claims.md` with status `active`, or from `narrative-and-positioning.md` proof points section
-- Customer quotes: Only from `07-proof-points/case-studies/` (approved quotes) or "Why Customers Care" sections in `messaging-pillars.md`
+- Verified metrics: Only from `07-proof-points/data-claims/data-claims.md` with status `active`, or from `positioning-strategy.md` proof points section
+- Customer quotes: Only from `07-proof-points/case-studies/` (approved quotes) or "Why Customers Care" sections in `messaging-framework.md`
 
 **Avoid These Claims (Unless Verified):**
 - Specific rate comparisons without source data
@@ -303,7 +303,7 @@ Each should be specific, quantified where possible, and emotionally resonant.
 
 4. **Generate Each Section:**
    - Follow the section structure above (Hero → Problem → Solution → How It Works → Social Proof → CTA)
-   - Pull copy from `messaging-pillars.md` ready-to-use blocks where available
+   - Pull copy from `messaging-framework.md` ready-to-use blocks where available
    - Ensure every section reinforces the ONE primary position
 
 5. **Self-Review:**

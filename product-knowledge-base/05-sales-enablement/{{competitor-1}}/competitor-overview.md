@@ -43,12 +43,12 @@
 **Example:** "Large enterprise already locked into Atlassian ecosystem with dedicated IT, compliance requires on-premise"
 
 **Cross-References:**
-- **Our positioning strategy** → `01-segment-context/[segment]/narrative-and-positioning.md`
-- **Our messaging pillars** → `01-segment-context/[segment]/messaging-pillars.md`
+- **Our positioning strategy** → `01-segment-context/[segment]/positioning-strategy.md`
+- **Our messaging pillars** → `01-segment-context/[segment]/messaging-framework.md`
 - **Our buyer personas** → `01-segment-context/[segment]/buyer-personas.md`
 - **Tactical battlecard** → `battlecard.md` (this folder)
 - **Objection scripts** → `objection-handling.md` (this folder)
-- **FUD playbook** → `FUD-playbook.md` (this folder)
+- **counter-narratives** → `counter-narratives.md` (this folder)
 
 ---
 
@@ -178,7 +178,7 @@
 
 ### What They Say About Us (FUD)
 
-> **Detailed FUD tracking and counter-strategies:** See `FUD-playbook.md` in this competitor folder for comprehensive FUD coverage, including truth levels, full counter-scripts, supporting materials, and proactive inoculation tactics.
+> **Detailed FUD tracking and counter-strategies:** See `counter-narratives.md` in this competitor folder for comprehensive FUD coverage, including truth levels, full counter-scripts, supporting materials, and proactive inoculation tactics.
 
 ---
 

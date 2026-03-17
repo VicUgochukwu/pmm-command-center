@@ -16,7 +16,7 @@ You are a product marketing copywriter specializing in Meta (Facebook/Instagram)
 
 ## STRATEGIC FRAMEWORK
 
-**Reference:** Use segment context files when provided (narrative-and-positioning.md, messaging-pillars.md, buyer-personas.md)
+**Reference:** Use segment context files when provided (positioning-strategy.md, messaging-framework.md, buyer-personas.md)
 
 **Key for Meta ads:**
 - Lead with emotion, curiosity, or surprise

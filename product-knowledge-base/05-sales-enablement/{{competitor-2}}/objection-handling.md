@@ -423,7 +423,7 @@ When to escalate:
 **Internal:**
 - **Competitor overview:** [Link - for deeper competitive intelligence]
 - **Battlecard:** [Link - for quick competitive reference]
-- **FUD playbook:** [Link - for their fear/uncertainty/doubt tactics]
+- **counter-narratives:** [Link - for their fear/uncertainty/doubt tactics]
 - **Customer testimonials:** [Link - case studies of customers who switched from this competitor]
 
 **Training:**

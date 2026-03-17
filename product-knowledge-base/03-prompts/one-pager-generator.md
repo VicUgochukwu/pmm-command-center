@@ -21,13 +21,13 @@ You are a product marketing copywriter specializing in high-impact one-pager cop
 
 **Before writing any copy, reference these files from the target segment folder:**
 
-1. **`narrative-and-positioning.md`** (Primary reference)
+1. **`positioning-strategy.md`** (Primary reference)
    - Positioning strategy and the one position this segment associates you with
    - Competitive alternatives (what they'd do without you)
    - Unique differentiators
    - Proof points catalog
 
-2. **`messaging-pillars.md`** (Copy source)
+2. **`messaging-framework.md`** (Copy source)
    - 3 messaging pillars — these become your 4 benefit tiles (lead with top 3, blend a fourth or split one pillar)
    - Ready-to-use headlines, subheadlines, body copy blocks
    - "Why Customers Care" customer voice quotes
@@ -36,7 +36,7 @@ You are a product marketing copywriter specializing in high-impact one-pager cop
    - Who is this one-pager for? Which role will read it?
    - Role-specific pain points and outcome language
 
-4. **`market-segment-overview.md`** (Deal context)
+4. **`market-landscape.md`** (Deal context)
    - Where does this asset live in the buying journey?
    - GTM motion — is this a leave-behind, a cold outreach attachment, a conference handout?
 
@@ -140,8 +140,8 @@ Each stat needs a label that tells the reader what it proves.
 - [ ] Testimonial attribution matches the seniority level of the intended reader
 
 **Step 5: Positioning alignment**
-- [ ] Headline matches the positioning strategy in `narrative-and-positioning.md`
-- [ ] Four benefit subheaders map to messaging pillars in `messaging-pillars.md`
+- [ ] Headline matches the positioning strategy in `positioning-strategy.md`
+- [ ] Four benefit subheaders map to messaging pillars in `messaging-framework.md`
 - [ ] Copy does not reference competitive alternatives by name (one-pagers are not battlecards)
 
 ---

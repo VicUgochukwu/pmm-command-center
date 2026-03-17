@@ -32,9 +32,9 @@ This document provides the operational foundation for selling to the [SEGMENT NA
 - **Success metrics** (leading and lagging indicators)
 
 **Cross-References:**
-- **Positioning strategy & framework** → `narrative-and-positioning.md`
+- **Positioning strategy & framework** → `positioning-strategy.md`
 - **Buyer committee profiles** → `buyer-personas.md`
-- **Messaging pillars & copy blocks** → `messaging-pillars.md`
+- **Messaging pillars & copy blocks** → `messaging-framework.md`
 - **Landing page generation** → `03-prompts/solution-lander-generator.md`
 
 ---
@@ -49,11 +49,11 @@ This document provides the operational foundation for selling to the [SEGMENT NA
 
 2. **Primary Position** (3 mins)
    - One word/phrase you own for this segment
-   - Reference positioning strategy from `narrative-and-positioning.md`
+   - Reference positioning strategy from `positioning-strategy.md`
 
 3. **Competitive Alternatives** (5 mins)
    - How status quo, different category, and direct competitors show up in deals
-   - Reference `narrative-and-positioning.md` for strategic competitive analysis
+   - Reference `positioning-strategy.md` for strategic competitive analysis
 
 4. **Typical Deal Flow** (5 mins)
    - How long does sales cycle take?
@@ -118,9 +118,9 @@ This document provides the operational foundation for selling to the [SEGMENT NA
 
 ### Positioning Strategy
 
-> **Source of truth:** See `narrative-and-positioning.md` for the full positioning framework selection (7 classic strategies + problem-focused), competitive alternatives analysis, and proof points catalog.
+> **Source of truth:** See `positioning-strategy.md` for the full positioning framework selection (7 classic strategies + problem-focused), competitive alternatives analysis, and proof points catalog.
 
-**Strategy Used:** [Which positioning strategy — as defined in narrative-and-positioning.md]
+**Strategy Used:** [Which positioning strategy — as defined in positioning-strategy.md]
 
 **Your Choice:** [e.g., "Against-the-Leader + Attribute Ownership"]
 
@@ -409,13 +409,13 @@ This document provides the operational foundation for selling to the [SEGMENT NA
    - Prevent with proactive content at each stage
 
 5. **Cross-Reference Other Documents**
-   - **Positioning strategy & proof points** → `narrative-and-positioning.md`
+   - **Positioning strategy & proof points** → `positioning-strategy.md`
    - **Buyer committee profiles** → `buyer-personas.md`
-   - **Messaging pillars & copy blocks** → `messaging-pillars.md`
+   - **Messaging pillars & copy blocks** → `messaging-framework.md`
    - **Landing page generation** → `03-prompts/solution-lander-generator.md`
 
 **When generating segment-specific content:**
-- Start with positioning strategy and primary position (from narrative-and-positioning.md)
+- Start with positioning strategy and primary position (from positioning-strategy.md)
 - Reference competitive alternatives (all 3 types, from this document)
 - Map content to buyer journey stage
 - Use deal killer insights to address objections
@@ -425,7 +425,7 @@ This document provides the operational foundation for selling to the [SEGMENT NA
 ## Template Completion Checklist
 
 - [ ] **Choose segmentation approach** (demographic or problem-based)
-- [ ] **Ensure narrative-and-positioning.md is complete** (positioning strategy, proof points)
+- [ ] **Ensure positioning-strategy.md is complete** (positioning strategy, proof points)
 - [ ] **Map competitive alternatives** (how they show up in deals)
 - [ ] **Document deal flow** (stage-by-stage with timelines)
 - [ ] **Identify deal killers** (what causes deals to die)

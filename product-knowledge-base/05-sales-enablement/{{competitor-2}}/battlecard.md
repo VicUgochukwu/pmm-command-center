@@ -438,7 +438,7 @@ Use the **Acknowledge → Reframe → Proof → Check** framework
 **Internal:**
 - **Competitor overview:** [Link to detailed competitor overview doc]
 - **Objection handling:** [Link to full objection framework doc]
-- **FUD tactics:** [Link to FUD playbook doc]
+- **FUD tactics:** [Link to counter-narratives doc]
 - **Demo script vs them:** [Link to demo script]
 
 **Customer-facing:**
