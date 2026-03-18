@@ -360,6 +360,34 @@ This document provides the operational foundation for selling to the [SEGMENT NA
 
 ---
 
+## Competitive Movement Log
+
+> **Tracks competitor changes that affect this segment's market landscape.** The Competitor Watcher agent maintains a detailed changelog at `research/competitor-changelog.md`. This section surfaces the most relevant recent movements.
+
+| Date | Competitor | Change | Impact on This Segment | Action Taken |
+|------|-----------|--------|------------------------|--------------|
+| [Date] | [Competitor] | [e.g., "Launched AI features"] | [e.g., "May weaken our 'modern vs legacy' angle"] | [e.g., "Updated battlecard, flagged for positioning review"] |
+| [Date] | [Competitor] | [e.g., "15% price increase"] | [e.g., "Switching opportunity for price-sensitive buyers"] | [e.g., "Added to outbound messaging"] |
+
+**Full changelog:** `research/competitor-changelog.md`
+**Alert source:** Competitor Watcher agent
+
+---
+
+## Market Signal Tracking
+
+> **Trends and signals detected from campaign performance, market research, and competitive intelligence.** This section connects real-world data to market dynamics — helping identify when segment behavior is shifting.
+
+| Signal | Source | Date Detected | Implication | Confidence |
+|--------|--------|---------------|-------------|------------|
+| [e.g., "Increased search volume for '[alternative category]'"] | [e.g., "Google Ads data / experiments/"] | [Date] | [e.g., "Segment may be re-categorizing the problem space"] | Preliminary / Emerging / Validated |
+| [e.g., "Win rate vs [competitor] dropped 10% this quarter"] | [e.g., "Win/loss data / experiments/"] | [Date] | [e.g., "Competitor may have addressed key weakness"] | Preliminary / Emerging / Validated |
+| [e.g., "New objection pattern in call transcripts"] | [e.g., "08-transcripts/ analysis"] | [Date] | [e.g., "Market perception shifting, update positioning"] | Preliminary / Emerging / Validated |
+
+**How signals feed back:** Performance Analyst and Competitor Watcher flag signals here. When confidence reaches Validated, the Segment Strategist recommends positioning or messaging updates.
+
+---
+
 ## Success Metrics for This Segment
 
 ### Leading Indicators (Predict Success)

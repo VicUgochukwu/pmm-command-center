@@ -1,6 +1,7 @@
 # Battlecard: [Competitor Name]
 
-**Last Updated:** [Date]  
+**Last Updated:** [Date]
+**Last Updated by Competitor Watcher:** [Date — auto-updated when competitive intelligence changes]
 **Owner:** [Product Marketing contact]
 
 ---
@@ -125,11 +126,11 @@
 
 ### Pillar 1: [Your Pillar Name - e.g., "Fast Setup"]
 
-| Aspect | Us | Them | Winner | Notes |
-|--------|-----|------|--------|-------|
-| **Setup time** | 2 hours, self-serve | 2-4 weeks, needs IT | ✅ Us | G2 data: 2hr avg vs 2wk avg |
-| **IT involvement** | None required | Mandatory | ✅ Us | SMBs don't have IT resources |
-| **Time to value** | Same day | 6-8 weeks | ✅ Us | Team productive immediately |
+| Aspect | Us | Them | Winner | Confidence | Notes |
+|--------|-----|------|--------|------------|-------|
+| **Setup time** | 2 hours, self-serve | 2-4 weeks, needs IT | ✅ Us | Validated | G2 data: 2hr avg vs 2wk avg |
+| **IT involvement** | None required | Mandatory | ✅ Us | Validated | SMBs don't have IT resources |
+| **Time to value** | Same day | 6-8 weeks | ✅ Us | Emerging | Team productive immediately |
 
 **Win message for this pillar:**
 "[One sentence positioning vs them on this pillar]"
@@ -140,11 +141,11 @@
 
 ### Pillar 2: [Your Pillar Name - e.g., "Everything Connected"]
 
-| Aspect | Us | Them | Winner | Notes |
-|--------|-----|------|--------|-------|
-| **Scope** | Docs + wikis + tasks + databases | Wikis only | ✅ Us | Replaces 3-5 tools vs 1 |
-| **Integration** | Everything connected | Need Jira for tasks | ✅ Us | No tool switching |
-| **Search** | Universal search | Wiki search only | ✅ Us | Find anything in <10 sec |
+| Aspect | Us | Them | Winner | Confidence | Notes |
+|--------|-----|------|--------|------------|-------|
+| **Scope** | Docs + wikis + tasks + databases | Wikis only | ✅ Us | Validated | Replaces 3-5 tools vs 1 |
+| **Integration** | Everything connected | Need Jira for tasks | ✅ Us | Emerging | No tool switching |
+| **Search** | Universal search | Wiki search only | ✅ Us | Emerging | Find anything in <10 sec |
 
 **Win message for this pillar:**
 "[One sentence positioning vs them on this pillar]"
@@ -155,11 +156,11 @@
 
 ### Pillar 3: [Your Pillar Name - e.g., "Simple to Use"]
 
-| Aspect | Us | Them | Winner | Notes |
-|--------|-----|------|--------|-------|
-| **Learning curve** | Feels like Google Docs | Complex, needs training | ✅ Us | No training required |
-| **Team adoption** | 85% in 1 week | 40% in 6 months | ✅ Us | Internal data + G2 reviews |
-| **User experience** | Modern, fast | Dated, slow | ✅ Us | NPS: 4.7 vs 3.8 (G2) |
+| Aspect | Us | Them | Winner | Confidence | Notes |
+|--------|-----|------|--------|------------|-------|
+| **Learning curve** | Feels like Google Docs | Complex, needs training | ✅ Us | Validated | No training required |
+| **Team adoption** | 85% in 1 week | 40% in 6 months | ✅ Us | Validated | Internal data + G2 reviews |
+| **User experience** | Modern, fast | Dated, slow | ✅ Us | Emerging | NPS: 4.7 vs 3.8 (G2) |
 
 **Win message for this pillar:**
 "[One sentence positioning vs them on this pillar]"
@@ -424,6 +425,22 @@ Use the **Acknowledge → Reframe → Proof → Check** framework
 **Use when:** [Deal scenario where this quote is most effective — e.g., "Prospect mentions implementation concerns or Confluence comparison"]
 
 > **Full customer reference library:** See `competitor-overview` for complete switch stories with metrics, customers who chose them over us, and lessons learned.
+
+---
+
+## Field-Tested Responses
+
+> **Which counter-arguments have actually worked in deals?** This section tracks real-world effectiveness of competitive responses based on deal outcomes. Updated from win/loss data in `experiments/` and `research/`, and from call debriefs in `08-transcripts/`.
+
+| Counter-Argument | Times Used | Deals Won | Deals Lost | Win Rate | Effectiveness |
+|------------------|-----------|-----------|------------|----------|---------------|
+| [e.g., "Speed comparison — 2hrs vs 2wks"] | [e.g., 15] | [e.g., 11] | [e.g., 4] | [e.g., 73%] | High / Medium / Low |
+| [e.g., "All-in-one vs point solution reframe"] | [e.g., 8] | [e.g., 5] | [e.g., 3] | [e.g., 63%] | High / Medium / Low |
+| [e.g., "TCO comparison with hidden costs"] | [e.g., 6] | [e.g., 2] | [e.g., 4] | [e.g., 33%] | High / Medium / Low |
+
+**How to use:** Lead with high-effectiveness responses. Deprioritize or rework low-effectiveness responses. Review patterns quarterly with sales team.
+
+**Source data:** Win/loss interviews in `research/`, call transcripts in `08-transcripts/`, campaign-attributed deal outcomes in `experiments/`
 
 ---
 

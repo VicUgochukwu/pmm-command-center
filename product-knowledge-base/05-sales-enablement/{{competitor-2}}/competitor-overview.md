@@ -1,6 +1,8 @@
 # Competitor Overview: [Competitor Name]
 
-**Last Updated:** [Date]  
+**Last Updated:** [Date]
+**Last Reviewed:** [Date — Competitor Watcher staleness check]
+**Competitor Watcher Status:** Current | Stale — Needs Review | Alert — Recent Change Detected
 **Owner:** [Product Marketing contact]
 
 ---
@@ -218,6 +220,19 @@
 3. **No IT required** (55% of wins)
    - **Context:** Small teams without dedicated IT resources
    - **Amplify:** "Confluence requires IT for weeks. We're self-serve in 2 hours"
+
+### Win/Loss Signals (Aggregated)
+
+> **Quantified win/loss patterns from campaign and deal data.** Aggregated from `experiments/` and `research/` to surface trends over time. The Performance Analyst updates this section as new deal outcomes are recorded.
+
+| Period | Deals vs This Competitor | Win Rate | Trend | Top Win Factor | Top Loss Factor |
+|--------|--------------------------|----------|-------|----------------|-----------------|
+| [e.g., Q1 2026] | [e.g., 12] | [e.g., 58%] | [Up / Down / Flat] | [e.g., "Speed to value"] | [e.g., "Ecosystem lock-in"] |
+| [e.g., Q4 2025] | [e.g., 9] | [e.g., 52%] | — | [Factor] | [Factor] |
+
+**Signal alerts:** If win rate shifts more than 10 percentage points quarter-over-quarter, Competitor Watcher flags for immediate review.
+
+**Source data:** `experiments/` (campaign-attributed deals), `research/` (win/loss interviews)
 
 ---
 

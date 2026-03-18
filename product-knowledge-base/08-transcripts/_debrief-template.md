@@ -113,9 +113,34 @@ deal_outcome: "[optional — for win/loss calls: why they bought, why they didn'
 
 ---
 
+## Performance Correlation
+
+> **Connect insights from this call to campaign experiment data.** If the prospect referenced a campaign touchpoint, or if their feedback validates or contradicts a hypothesis being tested, link it here.
+
+| Insight from This Call | Related Experiment / Campaign | Correlation |
+|------------------------|-------------------------------|-------------|
+| [e.g., "Prospect said 'your ad about tool sprawl is what got me to book'"] | [e.g., "Q1 LinkedIn pain-focused campaign"] | [e.g., "Validates pain-focused > feature-focused hypothesis"] |
+| [e.g., "Prospect dismissed our 'fastest setup' angle as unimportant"] | [e.g., "Speed positioning in positioning-strategy.md"] | [e.g., "May challenge primary position for this persona type"] |
+
+**Cross-reference:** Check `experiments/` for active campaigns targeting this segment to see if call insights align with or contradict in-market performance.
+
+---
+
+## KB Update Recommendations
+
+> **Specific files in the knowledge base that should be updated based on this debrief.** Be precise — reference the file path and the exact section to update. The Context Builder agent can execute these updates after user review.
+
+| KB File | Section to Update | Recommended Change | Priority |
+|---------|-------------------|-------------------|----------|
+| [e.g., `01-segment-context/[segment]/buying-committee.md`] | [e.g., "Economic Buyer — Key Pain Points"] | [e.g., "Add: 'Compliance audit pressure as buying trigger'"] | High / Medium / Low |
+| [e.g., `01-segment-context/[segment]/messaging-framework.md`] | [e.g., "Pillar 1 — Message Performance"] | [e.g., "Flag: 'speed' angle didn't resonate with this persona"] | High / Medium / Low |
+| [e.g., `05-sales-enablement/[competitor]/objection-handling.md`] | [e.g., "New objection: '[specific objection heard]'"] | [e.g., "Add new objection with A-R-P-C framework"] | High / Medium / Low |
+
+---
+
 ## Summary
 
-**What we learned:** [2–3 sentences. The highest-signal PMM insight from this call — what would you tell the team at the next sync?]
+**What we learned:** [2-3 sentences. The highest-signal PMM insight from this call -- what would you tell the team at the next sync?]
 
 **Priority update:** [The single most important knowledge base file to update based on this call, and why.]
 

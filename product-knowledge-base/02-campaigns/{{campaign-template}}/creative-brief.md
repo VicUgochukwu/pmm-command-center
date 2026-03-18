@@ -58,10 +58,43 @@
 - [Key insight 2]: [Description and implication]  
 - [Key insight 3]: [Description and implication]
 
+### Data-Informed Creative Direction
+
+> **What do we already know works?** Reference winning creative angles from past campaigns in `experiments/`. Use this data to inform creative direction — not constrain it.
+
+**Proven creative patterns for this audience:**
+| Creative Angle | Source Campaign | Performance | Why It Worked |
+|---------------|-----------------|-------------|---------------|
+| [e.g., "Before/after contrast visual"] | [Campaign] | [e.g., "2.8x engagement vs static"] | [e.g., "Makes problem tangible"] |
+| [e.g., "Customer quote as headline"] | [Campaign] | [e.g., "1.9% CTR vs 0.7% branded"] | [e.g., "Authenticity resonates with champions"] |
+
+**Creative angles to avoid (underperformed):**
+- [e.g., "Abstract/conceptual imagery — 0.3% CTR in Q4 campaign"]
+- [e.g., "Long-form body copy in ads — 50% lower completion"]
+
+**Source:** `experiments/` — look for creative performance breakdowns in past campaign results.
+
+---
+
+### A/B Test Plan
+
+> **What creative variations should we test in this campaign, and why?** Define test variants upfront so results are clean and actionable.
+
+| Element to Test | Variant A | Variant B | Rationale |
+|-----------------|-----------|-----------|-----------|
+| [e.g., Visual style] | [e.g., "Product screenshot"] | [e.g., "Customer photo with quote"] | [e.g., "Testing social proof vs product demo approach"] |
+| [e.g., Headline approach] | [e.g., "Pain-focused"] | [e.g., "Outcome-focused"] | [e.g., "Past data inconclusive for this segment"] |
+| [e.g., CTA button text] | [e.g., "Get started free"] | [e.g., "See it in action"] | [e.g., "Testing commitment level in CTA"] |
+
+**Minimum sample size per variant:** [e.g., 1,000 impressions before drawing conclusions]
+**Test duration:** [e.g., 2 weeks minimum]
+
+---
+
 ### Creative Strategy
 
-**Primary Message:**  
-[Main creative message – what’s the core creative concept?]
+**Primary Message:**
+[Main creative message -- what’s the core creative concept?]
 
 **Supporting Messages:**  
 
@@ -215,6 +248,24 @@
 - [Inspiration 1]: [Link or description]  
 - [Inspiration 2]: [Link or description]  
 - [Inspiration 3]: [Link or description]
+
+## Post-Campaign: Feeding Creative Performance Back
+
+> **After this campaign runs, creative performance data feeds back into the knowledge base.** This ensures winning creative patterns are captured and losing patterns are retired.
+
+**Where creative results go:**
+- `01-segment-context/[segment]/messaging-framework.md` — Update the "Message Performance" subsection under the relevant pillar with headline/CTA test results
+- `01-segment-context/[segment]/messaging-framework.md` — Update the "Winning Angles" quick-reference section with any new validated winners
+- `experiments/` — Store the full creative performance report for future campaign reference
+
+**Post-campaign checklist:**
+- [ ] Record all A/B test results with sample sizes and statistical significance
+- [ ] Identify winning creative variants and document why they worked
+- [ ] Flag underperforming creative for retirement or rework
+- [ ] Route results to Performance Analyst for KB update recommendations
+- [ ] Update this campaign's experiment record in `experiments/`
+
+---
 
 ## Template Instructions
 

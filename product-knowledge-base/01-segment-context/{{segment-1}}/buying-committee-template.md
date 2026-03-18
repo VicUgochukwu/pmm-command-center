@@ -258,6 +258,24 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 | **Reasons They Don't Choose You** | **"We already have Confluence":** Most teams have Confluence but still use 3-4 other tools for docs that don't fit<br>**"Change management risk":** Team can start with 1 use case, expand organically - no big bang migration<br>**"Too expensive":** ROI in first month from reduced search time ($5K/month in productivity @ 10 hrs/week saved) |
 | **Winning Messages** | **"From chaos to organized in one afternoon":** Show before/after of team workspace<br>**"Your team finds what they need, when they need it":** No more Slack "where's that doc?" messages<br>**"Start small, grow naturally":** Begin with team wiki, expand to docs and projects |
 
+### Engagement Signals
+
+> **What actually works with this role?** Tracks which content types, messaging approaches, and channels resonate with economic buyers based on campaign performance data. Updated by Performance Analyst from `experiments/`.
+
+| Content Type / Approach | Campaign | Engagement Metric | Confidence |
+|-------------------------|----------|-------------------|------------|
+| [e.g., "ROI calculator landing page"] | [Campaign] | [e.g., "42% completion rate"] | Preliminary / Emerging / Validated |
+| [e.g., "Direct CTA email"] | [Campaign] | [e.g., "3.1% reply rate"] | Preliminary / Emerging / Validated |
+
+### Response Patterns
+
+> **Channel, format, and tone preferences observed from real data.**
+
+| Channel | Format | Tone | Performance Signal | Source |
+|---------|--------|------|--------------------|--------|
+| [e.g., LinkedIn] | [e.g., Case study ads] | [e.g., Data-driven, concise] | [e.g., "2x CTR vs awareness ads"] | [Campaign / experiment ref] |
+| [e.g., Email] | [e.g., ROI-focused, 3 paragraphs] | [e.g., Direct, numbers-first] | [e.g., "18% open rate"] | [Campaign / experiment ref] |
+
 ---
 
 ## Champion (Internal Advocate - Drives the Deal)
@@ -331,6 +349,22 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 | **Reasons They Don't Choose You** | **"Team won't learn new tool":** Familiar patterns (like Google Docs), not alien interface<br>**"Too many features, too complex":** Start with basic pages, discover features as needed<br>**"What if it's another abandoned tool?":** Free trial - validate adoption before paying |
 | **Winning Messages** | **"Your team finds what they need without asking you":** Show search finding doc instantly<br>**"Organize it your way, in minutes":** Demo drag-and-drop simplicity<br>**"If your team doesn't love it, don't pay":** Low-risk trial approach |
 
+### Engagement Signals
+
+> **What content and messaging resonates with champions?** Based on campaign data from `experiments/`.
+
+| Content Type / Approach | Campaign | Engagement Metric | Confidence |
+|-------------------------|----------|-------------------|------------|
+| [e.g., "Interactive demo"] | [Campaign] | [e.g., "65% completion rate"] | Preliminary / Emerging / Validated |
+| [e.g., "Pain-focused social ad"] | [Campaign] | [e.g., "4.2% CTR"] | Preliminary / Emerging / Validated |
+
+### Response Patterns
+
+| Channel | Format | Tone | Performance Signal | Source |
+|---------|--------|------|--------------------|--------|
+| [e.g., Product-led in-app] | [e.g., Template gallery] | [e.g., Peer-oriented, practical] | [e.g., "3x activation vs email"] | [Campaign / experiment ref] |
+| [e.g., Organic search] | [e.g., Comparison blog posts] | [e.g., Honest, detailed] | [e.g., "8 min avg time on page"] | [Campaign / experiment ref] |
+
 ---
 
 ## Technical Buyer (Optional - Include Only If Technical Veto Is Common)
@@ -382,6 +416,20 @@ This document maps the **buying committee** for [SEGMENT NAME] ([GMV RANGE or PR
 | **Measured By** | Security incident rate, Integration stability, Time spent on vendor reviews |
 | **Fears** | **Data Breach:** Tool becomes security vulnerability<br>**Engineering Distraction:** Team spends weeks building integrations |
 | **Emotional Drivers** | **Enable Team Safely:** Want to say "yes" to team requests without security risk<br>**Reduce Vendor Overhead:** Fewer tools to manage and integrate |
+
+### Engagement Signals
+
+> **What resonates with technical buyers?** Based on campaign and content performance data from `experiments/`.
+
+| Content Type / Approach | Campaign | Engagement Metric | Confidence |
+|-------------------------|----------|-------------------|------------|
+| [e.g., "Security whitepaper download"] | [Campaign] | [e.g., "28% download rate"] | Preliminary / Emerging / Validated |
+
+### Response Patterns
+
+| Channel | Format | Tone | Performance Signal | Source |
+|---------|--------|------|--------------------|--------|
+| [e.g., Documentation site] | [e.g., API docs, architecture overview] | [e.g., Technical, precise] | [e.g., "High engagement from qualified leads"] | [Campaign / experiment ref] |
 
 ---
 

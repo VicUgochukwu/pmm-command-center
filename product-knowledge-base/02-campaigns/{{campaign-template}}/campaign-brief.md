@@ -47,9 +47,48 @@
 
 ## Project Context
 
-**Problem Statement:** [What challenge are we solving for customers?]  
-**Solution Overview:** [How does our product/service solve this problem?]  
+**Problem Statement:** [What challenge are we solving for customers?]
+**Solution Overview:** [How does our product/service solve this problem?]
 **Timing Rationale:** [Why now?]
+
+---
+
+## Historical Context
+
+> **What do we already know from past campaigns targeting this segment?** Reference performance data from `experiments/` to inform this campaign's strategy. Don't start from scratch — build on what worked.
+
+**Related past campaigns:**
+| Campaign | Date | Segment | Key Result | What We Learned |
+|----------|------|---------|------------|-----------------|
+| [Previous campaign name] | [Date] | [Segment] | [e.g., "1.2% CTR, 4% conversion"] | [e.g., "Pain-focused headlines outperformed feature headlines 2:1"] |
+| [Previous campaign name] | [Date] | [Segment] | [e.g., "22% email open rate"] | [e.g., "Direct subject lines beat clever ones for this persona"] |
+
+**Data source:** `experiments/` folder — check for A/B test results, campaign performance summaries, and audience response data for this segment.
+
+---
+
+## Experiment Design
+
+> **Every campaign is a learning opportunity.** Define what hypothesis this campaign tests, what metrics to track, and how results feed back into the knowledge base. This section ensures campaign data contributes to the closed-loop system.
+
+**Hypothesis:** [What do we believe will happen? e.g., "Problem-focused messaging will outperform feature-focused messaging for VP Ops audience by 2x on CTR"]
+
+**Test Variables:**
+| Variable | Variant A (Control) | Variant B (Test) | Metric to Compare |
+|----------|---------------------|-------------------|-------------------|
+| [e.g., Headline angle] | [e.g., "Feature-focused"] | [e.g., "Pain-focused"] | [e.g., CTR, conversion rate] |
+| [e.g., CTA type] | [e.g., "Learn more"] | [e.g., "Start free trial"] | [e.g., Click-through, signup rate] |
+
+**Success Metrics:**
+- **Primary:** [e.g., Conversion rate > 3%]
+- **Secondary:** [e.g., CTR > 1.5%, CPA < $50]
+
+**KB Files This Campaign Should Update:**
+- `01-segment-context/[segment]/messaging-framework.md` — Message Performance section
+- `01-segment-context/[segment]/positioning-strategy.md` — Performance Signals section
+- `05-sales-enablement/[competitor]/battlecard.md` — Field-Tested Responses (if competitive)
+
+**Performance Review Trigger:** After campaign ends, route results to the Performance Analyst agent for analysis. Performance Analyst will update the KB files listed above based on experiment outcomes.
 
 ---
 

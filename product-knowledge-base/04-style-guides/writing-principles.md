@@ -305,6 +305,30 @@ While these principles apply to all content, different formats may emphasize dif
 
 ---
 
+## Performance-Informed Voice
+
+> **Audience response data should influence how we write over time.** This section captures proven writing patterns from campaign performance data and audience feedback. The Performance Analyst flags tone and voice patterns that consistently outperform or underperform, and this section evolves accordingly.
+
+**General principle:** When data shows a clear audience preference, adjust the voice. When data is inconclusive, default to the core voice principles above. Never let data override brand identity — use it to sharpen, not replace.
+
+### Tested Patterns
+
+> **Writing patterns validated through campaign performance.** These are specific, data-backed observations about what resonates with our audience. Updated by the Performance Analyst when campaign data in `experiments/` reveals consistent patterns.
+
+| Pattern | Evidence | Segment | Confidence |
+|---------|----------|---------|------------|
+| [e.g., "Direct CTAs outperform soft CTAs for enterprise segment"] | [e.g., "3 campaigns, avg 2.1x higher click rate"] | [e.g., Enterprise] | Emerging / Validated |
+| [e.g., "Numbers in headlines outperform adjective-based headlines"] | [e.g., "5 A/B tests, consistent 30%+ CTR lift"] | [e.g., All segments] | Emerging / Validated |
+| [e.g., "Question-based subject lines underperform for VP Ops"] | [e.g., "2 email campaigns, 40% lower open rate"] | [e.g., Economic buyers] | Emerging / Validated |
+
+**How this evolves:**
+1. Performance Analyst identifies tone/voice patterns across campaigns in `experiments/`
+2. Patterns with Emerging or Validated confidence are added here
+3. Content generators reference this section alongside core voice principles
+4. Patterns are segment-specific where data supports it
+
+---
+
 ## Quality Checklist
 
 Before finalizing any content, verify:

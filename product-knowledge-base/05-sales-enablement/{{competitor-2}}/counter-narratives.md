@@ -1,6 +1,7 @@
 # FUD Playbook: [Competitor Name]
 
-**Last Updated:** [Date]  
+**Last Updated:** [Date]
+**Competitor Watcher Alert:** None | Active — [Description of what changed]
 **Owner:** [Product Marketing contact]
 
 ---
@@ -500,6 +501,20 @@ Competitive tactic where a competitor spreads negative information (true, partia
 - Did response work in deals?
 - Do we need to adjust?
 - Is pattern getting worse or better?
+
+---
+
+## Deployment History
+
+> **When were these counter-narratives used in campaigns, and what happened?** Tracks the real-world deployment of counter-narratives across campaigns and deals. The Performance Analyst updates this section based on `experiments/` data. If a counter-narrative was deployed and underperformed, it may need revision.
+
+| Counter-Narrative | Campaign / Context | Date Deployed | Result | Still Valid? |
+|-------------------|--------------------|---------------|--------|--------------|
+| [e.g., "Cloud-first is the new enterprise standard"] | [e.g., "Q1 Enterprise LinkedIn campaign"] | [Date] | [e.g., "1.8% CTR, above benchmark"] | Yes / Needs Update |
+| [e.g., "On-prem doesn't mean more secure"] | [e.g., "Security-focused email sequence"] | [Date] | [e.g., "12% reply rate"] | Yes / Needs Update |
+| [e.g., "Longevity does not equal innovation"] | [e.g., "Competitive comparison landing page"] | [Date] | [e.g., "Low conversion — 2.1%"] | Needs Rework |
+
+**Competitor Watcher integration:** When the Competitor Watcher detects a change that may invalidate a counter-narrative (e.g., competitor launches a feature that addresses a weakness we've been exploiting), it sets the "Competitor Watcher Alert" field at the top of this document and flags the specific counter-narrative in this table as "Needs Update."
 
 ---
 

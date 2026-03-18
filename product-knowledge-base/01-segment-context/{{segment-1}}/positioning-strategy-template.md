@@ -1,5 +1,7 @@
 # [PRODUCT NAME] [SEGMENT] Narrative and Positioning
 **Last Updated:** [February 15, 2026]
+**Last Validated:** [Date — updated by Performance Analyst when experiment data confirms or challenges positioning]
+**Quality Tier:** Draft | Review | Launch-Ready
 
 ## AI-Readable Metadata
 ```yaml
@@ -621,6 +623,31 @@ When you're [problem in customer language],
 - Use narrative structure for storytelling
 - Include proof points naturally
 - Ensure all messaging supports ONE position
+
+---
+
+## Performance Signals
+
+> **Data-driven positioning validation.** This section tracks which positioning angles have been tested in-market through campaigns and experiments. The Performance Analyst agent updates this section based on data from `experiments/`. Do not manually edit results — let campaign data speak.
+
+| Positioning Angle | Campaign | Result | Confidence Tier | Date Tested |
+|-------------------|----------|--------|-----------------|-------------|
+| [e.g., "Fastest to implement"] | [e.g., "Q1 LinkedIn campaign"] | [e.g., "2.1% CTR vs 0.8% control"] | Preliminary / Emerging / Validated | [Date] |
+| [e.g., "All-in-one workspace"] | [e.g., "Google Ads - search"] | [e.g., "32% lower CPA"] | Preliminary / Emerging / Validated | [Date] |
+
+**Confidence Tier Definitions:**
+- **Preliminary:** Single test, small sample size, directional only
+- **Emerging:** 2-3 tests with consistent signal, moderate sample size
+- **Validated:** Multiple tests across channels/segments, statistically significant, high confidence
+
+**How this section gets updated:**
+1. Performance Analyst reads campaign results from `experiments/`
+2. Maps results to positioning angles defined in this document
+3. Updates the table above with new data points
+4. Escalates confidence tier when thresholds are met
+5. Flags positioning angles that underperform expectations
+
+**Cross-reference:** `experiments/` for raw campaign data and A/B test results.
 
 ---
 

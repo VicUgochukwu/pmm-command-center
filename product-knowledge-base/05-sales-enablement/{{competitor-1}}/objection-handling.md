@@ -29,22 +29,40 @@ Every objection response follows this structure:
 
 ---
 
+## Objection Effectiveness Tracking
+
+> **How well do our responses actually work?** Each objection below carries an effectiveness rating and source tag based on real deal outcomes. The Performance Analyst updates ratings as win/loss data accumulates in `experiments/` and `research/`.
+
+**Effectiveness Rating Scale:**
+- **High:** Response overcomes the objection in >70% of deals where it's used
+- **Medium:** Response overcomes the objection in 40-70% of deals
+- **Low:** Response overcomes the objection in <40% of deals — needs rework
+- **Untested:** No deal outcome data yet
+
+**Source Tags:**
+- **Call Transcript** — sourced from recorded sales calls in `08-transcripts/`
+- **Deal Review** — surfaced in win/loss analysis from `research/`
+- **Advisory Board** — identified through Advisory Board agent simulation
+- **Field Report** — reported by sales team directly
+
+---
+
 ## Quick Reference: Top 5 Objections
 
-| Objection | Quick A-R-P-C Response | When It Comes Up |
-|-----------|------------------------|------------------|
-| "[Objection 1]" | A: [Quick acknowledge]<br>R: [Quick reframe]<br>P: [One proof point]<br>C: [Check question] | [Deal stage/scenario] |
-| "[Objection 2]" | [Same format] | [Deal stage/scenario] |
-| "[Objection 3]" | [Same format] | [Deal stage/scenario] |
-| "[Objection 4]" | [Same format] | [Deal stage/scenario] |
-| "[Objection 5]" | [Same format] | [Deal stage/scenario] |
+| Objection | Quick A-R-P-C Response | When It Comes Up | Effectiveness | Source |
+|-----------|------------------------|------------------|---------------|--------|
+| "[Objection 1]" | A: [Quick acknowledge]<br>R: [Quick reframe]<br>P: [One proof point]<br>C: [Check question] | [Deal stage/scenario] | [Effectiveness] | [Source] |
+| "[Objection 2]" | [Same format] | [Deal stage/scenario] | [Effectiveness] | [Source] |
+| "[Objection 3]" | [Same format] | [Deal stage/scenario] | [Effectiveness] | [Source] |
+| "[Objection 4]" | [Same format] | [Deal stage/scenario] | [Effectiveness] | [Source] |
+| "[Objection 5]" | [Same format] | [Deal stage/scenario] | [Effectiveness] | [Source] |
 
 **Example:**
 
-| Objection | Quick A-R-P-C Response | When It Comes Up |
-|-----------|------------------------|------------------|
-| "We already have Confluence" | **A:** Makes sense - you've invested in it<br>**R:** Most teams use Confluence + 3-4 other tools still<br>**P:** Acme had Confluence, added Notion for what doesn't fit wikis<br>**C:** Are you using other tools beyond Confluence? | Discovery, early objection |
-| "Confluence is more secure" | **A:** Security is critical for [industry]<br>**R:** Both are SOC2 - question is on-prem vs cloud<br>**P:** [Customer] in same industry uses us at scale<br>**C:** Is on-premise a hard requirement? | Technical buyer evaluation |
+| Objection | Quick A-R-P-C Response | When It Comes Up | Effectiveness | Source |
+|-----------|------------------------|------------------|---------------|--------|
+| "We already have Confluence" | **A:** Makes sense - you've invested in it<br>**R:** Most teams use Confluence + 3-4 other tools still<br>**P:** Acme had Confluence, added Notion for what doesn't fit wikis<br>**C:** Are you using other tools beyond Confluence? | Discovery, early objection | High | Deal Review, Call Transcript |
+| "Confluence is more secure" | **A:** Security is critical for [industry]<br>**R:** Both are SOC2 - question is on-prem vs cloud<br>**P:** [Customer] in same industry uses us at scale<br>**C:** Is on-premise a hard requirement? | Technical buyer evaluation | Medium | Deal Review |
 
 ---
 

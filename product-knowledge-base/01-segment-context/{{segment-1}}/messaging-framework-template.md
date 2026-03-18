@@ -34,6 +34,19 @@ messaging_pillars:
     supports_strategy: "[How this reinforces primary]"
 ```
 
+## Winning Angles (Quick Reference)
+
+> **Populated after campaigns run.** This section surfaces the highest-performing messaging angles from real campaign data. Empty until the Performance Analyst has processed experiment results from `experiments/`. Use these as starting points for new content — they represent what actually resonates in-market.
+
+| Winning Angle | Source Campaign | Key Metric | Confidence | Last Tested |
+|---------------|-----------------|------------|------------|-------------|
+| [e.g., "2 hours vs 2 weeks" contrast] | [Campaign name] | [e.g., "3.2% CTR, 2x control"] | Emerging / Validated | [Date] |
+| [e.g., "No IT required" headline] | [Campaign name] | [e.g., "22% higher conversion"] | Emerging / Validated | [Date] |
+
+**Cross-reference:** `experiments/` for full test results and sample sizes.
+
+---
+
 ## Overview
 This document defines the 3 core messaging pillars for [PRODUCT NAME] targeting the [SEGMENT NAME] segment ([GMV RANGE or PROBLEM DEFINITION]). These pillars provide:
 - **Tactical execution** (ready-to-use copy for all channels)
@@ -184,6 +197,17 @@ This document defines the 3 core messaging pillars for [PRODUCT NAME] targeting 
 
 ---
 
+### Message Performance
+
+> **How do messages for this pillar actually perform?** This subsection tracks headlines, CTAs, and copy variants that have been tested in campaigns. Updated by the Performance Analyst based on experiment data in `experiments/`.
+
+| Message / Headline | Campaign | Channel | Result | Confidence |
+|--------------------|----------|---------|--------|------------|
+| [e.g., "Live in 2 hours, not 2 weeks"] | [Campaign] | [e.g., LinkedIn] | [e.g., "2.4% CTR"] | Preliminary / Emerging / Validated |
+| [e.g., "No IT required. Start today."] | [Campaign] | [e.g., Google Ads] | [e.g., "18% conv rate"] | Preliminary / Emerging / Validated |
+
+---
+
 ### Ready-to-Use Copy Blocks
 
 **Headlines (7-10 words):**
@@ -282,13 +306,23 @@ This document defines the 3 core messaging pillars for [PRODUCT NAME] targeting 
 
 ---
 
+### Message Performance
+
+> **Tracks tested messages for this pillar.** Updated by Performance Analyst from `experiments/` data.
+
+| Message / Headline | Campaign | Channel | Result | Confidence |
+|--------------------|----------|---------|--------|------------|
+| [Tested message] | [Campaign] | [Channel] | [Result] | Preliminary / Emerging / Validated |
+
+---
+
 [Use same structure as Pillar 1 for Key Details and Ready-to-Use Copy Blocks]
 
 ---
 
 ## Pillar 3: [PILLAR 3 NAME] (SUPPORTING)
 
-[Use same structure as Pillar 1 and 2]
+[Use same structure as Pillar 1 and 2 — include a Message Performance subsection tracking tested headlines, CTAs, and their results from `experiments/`]
 
 ---
 

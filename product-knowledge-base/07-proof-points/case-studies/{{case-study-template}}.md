@@ -176,6 +176,25 @@ Quotes below are extracted from the published case study and approved for extern
 
 ---
 
+## Usage Analytics
+
+> **Where has this case study been deployed, and how did it perform?** Tracks deployment across campaigns, sales conversations, and content assets to measure real-world impact. Updated by Performance Analyst from `experiments/` data.
+
+**Freshness Check:** [Date — when was this case study last validated with the customer? Stories over 12 months old should be re-confirmed.]
+
+| Deployment Context | Campaign / Asset | Date | Performance | Impact |
+|--------------------|------------------|------|-------------|--------|
+| [e.g., "LinkedIn ad — competitive angle"] | [Campaign name] | [Date] | [e.g., "2.3% CTR, 12% conversion"] | [e.g., "Top-performing ad in campaign"] |
+| [e.g., "Sales email — objection handling"] | [e.g., "Enterprise outbound sequence"] | [Date] | [e.g., "15% reply rate"] | [e.g., "Used in 8 deals, 6 won"] |
+| [e.g., "Landing page social proof"] | [e.g., "Solution lander v3"] | [Date] | [e.g., "Section with highest scroll depth"] | [e.g., "Correlated with 18% lift in demo requests"] |
+
+**Deployment recommendations:** Based on performance data, this case study works best for:
+- **Best audience:** [e.g., "VP Ops in SMB, evaluating against [Competitor]"]
+- **Best channel:** [e.g., "LinkedIn ads and sales outbound"]
+- **Best use case:** [e.g., "Overcoming 'we already have [Competitor]' objection"]
+
+---
+
 ## Template Completion Checklist
 
 - [ ] YAML metadata complete (customer, vertical, segment, switch context)
