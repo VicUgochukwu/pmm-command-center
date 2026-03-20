@@ -158,9 +158,3 @@ The knowledge base is plain text files — any AI that can read files gets the s
 ## License
 
 [MIT License](./LICENSE). Free to use, adapt, and extend.
-
----
-
-## Acknowledgments
-
-PMM Command Center was inspired by [Product Marketing OS](https://github.com/itsebastienrankin/product-marketing-os) by Sebastien Rankin, released under the MIT License. We built on the structural foundation of that project and extended it with data-driven feedback loops, additional agents, and performance analytics capabilities.
